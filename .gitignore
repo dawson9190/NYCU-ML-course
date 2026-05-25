@@ -24,6 +24,7 @@ desktop.ini
 *.tmp
 *.temp
 ~$*
+.import_tmp/
 
 # Model/data artifacts that are usually too large for Git
 *.h5
